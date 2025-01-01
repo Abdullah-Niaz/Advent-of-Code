@@ -44,23 +44,16 @@ def solution2(input_data):
 with open('input.txt', 'r') as file:
     data = file.read()
 
-    # Test cases
-    print(f"solution1: {solution1(data)}")  # Expected output: 2
-    print(f"solution2: {solution2(data)}")  # Expected output: 4
+    print(f"solution1: {solution1(data)}")
+    print(f"solution2: {solution2(data)}")
 
-    # Test function for is_row_safe
-    print(is_row_safe([1, 2, 3, 4, 5]))  # Expected: True
-    print(is_row_safe([5, 4, 3, 2, 1]))  # Expected: True
-    print(is_row_safe([1, 2, 3, 2, 1]))  # Expected: False
+    print(is_row_safe([1, 2, 3, 4, 5]))
+    print(is_row_safe([5, 4, 3, 2, 1]))
+    print(is_row_safe([1, 2, 3, 2, 1]))
 
-    # Test function for is_decreasing_correctly
-    print(is_decreasing_correctly([3, 2, 1]))  # Expected: True
-    print(is_decreasing_correctly([1, 1, 1]))  # Expected: False
+    print(is_decreasing_correctly([3, 2, 1]))
+    print(is_decreasing_correctly([1, 1, 1]))
 
-    # Test function for is_increasing_correctly
-    print(is_increasing_correctly([1, 2, 3]))  # Expected: True
-    print(is_increasing_correctly([1, 5, 9]))  # Expected: False
-
-    # Test function for get_row_permutations
-    # Expected: List of permutations
+    print(is_increasing_correctly([1, 2, 3]))
+    print(is_increasing_correctly([1, 5, 9]))
     print(get_row_permutations([1, 2, 3, 4, 5]))
