@@ -37,13 +37,12 @@ class Solution:
 with open('input.txt', 'r') as file:
     data = file.read().strip().splitlines()
 
-    # Create an instance of the Solution class
 solution = Solution()
 
-# Execute part1 and part2 with the input data
+
 part1_result = solution.part1(data)
 part2_result = solution.part2(data)
 
-# Print the results
+
 print(f"Part 1 Result: {part1_result}")
 print(f"Part 2 Result: {part2_result}")
