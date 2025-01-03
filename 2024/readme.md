@@ -5,7 +5,7 @@ Welcome to the Advent of Code 2024 repository! Below is the menu for the differe
 <details>
   <summary><strong>2024</strong></summary>
 
-- [ ] [Day 1](https://github.com/Abdullah-Niaz/Advent-of-Code/tree/main/2024/Day%201)
+- [ ] [Day 1](https://github.com/Abdullah-Niaz/Advent-of-Code/tree/main/2024/01_Day)
 - [ ] [Day 2](https://github.com/Abdullah-Niaz/Advent-of-Code/tree/main/2024/Day%202)
 - [ ] [Day 3](https://github.com/Abdullah-Niaz/Advent-of-Code/tree/main/2024/Day%203)
 - [ ] [Day 4](https://github.com/Abdullah-Niaz/Advent-of-Code/tree/main/2024/Day%204)
