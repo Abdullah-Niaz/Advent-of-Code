@@ -50,18 +50,15 @@ class Solution():
 
 
 def main():
-    # Reading input data from 'input.txt' file
+
     with open('input.txt', 'r') as file:
         data = file.read().strip().splitlines()
 
-    # Create an instance of the Solution class
     solution = Solution()
 
-    # Calling part1 and part2 methods with the input data
     part1_result = solution.part1(data)
     part2_result = solution.part2(data)
 
-    # Printing the results for both parts
     print(f"Part 1 Result: {part1_result}")
     print(f"Part 2 Result: {part2_result}")
 
