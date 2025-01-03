@@ -1,6 +1,6 @@
-# Advent of Code 2024
+# Advent of Code
 
-Welcome to the Advent of Code 2024 repository! Below is the menu for the different days in 2024. Click on **2024** to expand and view the specific days.
+Welcome to the Advent of Code repository! Below is the menu for the different years. Click on **2024** to expand and view the specific days solutions.
 
 <details>
   <summary><strong>2024</strong></summary>
