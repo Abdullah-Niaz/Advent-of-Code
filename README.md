@@ -32,3 +32,13 @@ Welcome to the Advent of Code repository! Below is the menu for the different ye
 - [ ] [Day 25](https://github.com/Abdullah-Niaz/Advent-of-Code/tree/main/2024/25_Day)
 
 </details>
+
+
+
+<details>
+  <summary><strong>2025</strong></summary>
+
+- [ ] [Day 1](https://github.com/Abdullah-Niaz/Advent-of-Code/tree/main/2025/01_Day)
+
+
+</details>
