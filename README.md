@@ -9,7 +9,7 @@ Welcome to the Advent of Code repository! Below is the menu for the different ye
 - [ ] [Day 2](https://github.com/Abdullah-Niaz/Advent-of-Code/tree/main/2024/02_Day)
 - [ ] [Day 3](https://github.com/Abdullah-Niaz/Advent-of-Code/tree/main/2024/03_Day)
 - [ ] [Day 4](https://github.com/Abdullah-Niaz/Advent-of-Code/tree/main/2024/04_Day)
-- [ ] [Dgit y 5](https://github.com/Abdullah-Niaz/Advent-of-Code/tree/main/2024/05_Day)
+- [ ] [Day 5](https://github.com/Abdullah-Niaz/Advent-of-Code/tree/main/2024/05_Day)
 - [ ] [Day 6](https://github.com/Abdullah-Niaz/Advent-of-Code/tree/main/2024/06_Day)
 - [ ] [Day 7](https://github.com/Abdullah-Niaz/Advent-of-Code/tree/main/2024/07_Day)
 - [ ] [Day 8](https://github.com/Abdullah-Niaz/Advent-of-Code/tree/main/2024/08_Day)
