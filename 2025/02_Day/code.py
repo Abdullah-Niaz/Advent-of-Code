@@ -40,7 +40,6 @@ def part_one():
         if is_invalid_id(id_str):
             result += int(id_str)
     print(result)
-    # assert result == 5398419778
 
 
 def part_two():
@@ -50,7 +49,7 @@ def part_two():
         if is_invalid_id(id_str, len(id_str)):
             result += int(id_str)
     print(result)
-    # assert result == 15704845910
+
 
 
 if __name__ == "__main__":
